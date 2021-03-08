@@ -3,7 +3,7 @@
     <property name="created">2019-12-01T21:40:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-01T23:26:28</property>
+    <property name="modified">2021-03-08T10:21:07</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <colors>
@@ -48,7 +48,7 @@
     <option name="NOT_CHANGED" value="4b526d" />
     <option name="QUESTION_HINT" value="f111a" />
     <option name="RECENT_LOCATIONS_SELECTION" value="90b10" />
-    <option name="RIGHT_MARGIN_COLOR" value="3b3f51" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="84ffff" />
     <option name="SELECTED_TEARLINE_COLOR" value="84ffff" />
     <option name="SELECTION_BACKGROUND" value="3b3f51" />
