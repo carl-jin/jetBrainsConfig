@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
     <option name="defaultProjectDirectory" value="C:\Users\Buff\Desktop" />
     <option name="reopenLastProject" value="false" />
     <option name="autoSaveFiles" value="false" />
