@@ -4,6 +4,7 @@
       <list>
         <option value="file://$USER_HOME$/Desktop/videoRecorder/node_modules/@vitue/export-build-info/dist/index.js" />
         <option value="file://$USER_HOME$/Desktop/mediaPipe/node_modules/@mediapipe/selfie_segmentation/selfie_segmentation.js" />
+        <option value="file://$USER_HOME$/Desktop/pixi.js" />
       </list>
     </option>
     <option name="frameInfo">
